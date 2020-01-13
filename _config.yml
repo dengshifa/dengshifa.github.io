@@ -7,14 +7,14 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: SEVENTH
 # 描述/签名
-description: 第七次的博客
+description: 迷失在第七天
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar:  http://img.zcool.cn/community/01c47656da1b5332f875520f35961f.png@1280w_1l_2o_100sh.png
+avatar: ./images/huangzuan.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: ./images/2.png
 
@@ -48,7 +48,7 @@ footer-links:
   instagram: https://instagram.com/
   linkedin: https://www.linkedin.com/in/
   pinterest: https://www.pinterest.com/
-  rss: seve#随便填点啥RSS就能用了
+  rss: seve #随便填点啥RSS就能用了
   stackoverflow:  http://stackoverflow.com/
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
@@ -78,7 +78,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /SEVENTH
+baseurl:
 
 
 #
